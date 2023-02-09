@@ -3,7 +3,7 @@
 
 <!-- PROJECT LOGO -->
 <br>
-<!-- <div align="center"> -->
+<div align="center">
     <img src="https://i.pinimg.com/originals/a9/aa/fa/a9aafa325ea3b4c4f8330a9b30fdf3cb.gif" alt="Logo" width="80%">
 <h1 align="center">Pensil Community Landing Page</h1>
 </div>
